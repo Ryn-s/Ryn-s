@@ -21,7 +21,7 @@ and [German](https://ryn-s.github.io/?lang=de).
 
 ### Projects
 
-| | |
+| Repository | What it does |
 |---|---|
 | [pvetool](https://github.com/Ryn-s/pvetool) | Python CLI for Proxmox VE: inventory, cloud-init deployment, lifecycle, backups, reports. Dry-run mode, idempotent, 33 tests. |
 | [ansible-linux-baseline](https://github.com/Ryn-s/ansible-linux-baseline) | Ansible roles for a hardened, observable Debian/Ubuntu server: SSH, nftables, security updates, node_exporter. Molecule on 3 distributions, GitHub Actions and GitLab CI. |
